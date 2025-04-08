@@ -1,3 +1,8 @@
+## Overview
+
+AtliQ Hardware is a leading company which supplies products such as computer hardware and peripherals to clients across the world. My role was to create the sales report to analyze its performance in the market for the year 2019, 2020 and 2021. Here's the breakdown:
+
+
 ## Sales Report :
 
 
@@ -16,6 +21,7 @@
     **6.** Found out what are the _[new products](https://github.com/darab96/Excel-Sales-Analysis/blob/main/New%20Products.pdf)_ that the business began selling in 2021
 
     **7.** Found out what are the _[top 5 countries](https://github.com/darab96/Excel-Sales-Analysis/blob/main/Top%205%20Countries.pdf)_ in terms of net sales in 2021
+
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
